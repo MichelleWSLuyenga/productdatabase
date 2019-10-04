@@ -1,0 +1,40 @@
+/*======================= Navbar =========================*/
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #FFF6F0;
+
+    /*padding-top: 3%;*/
+}
+
+div.row nav.navbar {
+    background: #522203 none repeat scroll 0 0 !important;
+    border: medium none !important;
+    border-radius: 151px !important;
+    top: 0px;
+    width: 100%;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    width: 100px;
+    text-align: center;
+    font-size: 14px;
+}
+.navbar-inverse .navbar-brand {
+    background: #fff none repeat scroll 0 0 !important; 
+    border-radius: 50px;
+     color: #be5254 !important;
+    height: auto;
+    margin: 3px 0 2px -12px !important;
+    padding: 12px 30px !important;
+    font-size: 17px;
+}
+
+.navbar-inverse .navbar-nav .right {
+    /*align: right;*/
+    padding-left: 100px;
+    /*width: 200px;
+    right: 0px;*/
+}
+

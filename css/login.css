@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+
+h1 {
+    color: dimgray;
+    font-family: 'Dosis', sans-serif;
+    font-size: 60px;
+    margin-bottom: 35px;
+}
+
+.form {
+/*	margin-top: 30%;*/
+	/*margin-left: 30%;
+	margin-right: 30%;*/
+	background-color: #FFF6F0; 
+	padding:7% 10% 7% 10% ;
+}
+
+.navbar {
+	background-color: #522203;
+}
